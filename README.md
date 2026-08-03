@@ -23,3 +23,5 @@ Aqui no GitHub você encontrará projetos desenvolvidos durante minha formação
 * Desenvolvimento de Software
 
 Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e enfrentar desafios que contribuam para meu crescimento profissional.
+
+💼 LinkedIn: https://www.linkedin.com/in/paulohenriquedata/
